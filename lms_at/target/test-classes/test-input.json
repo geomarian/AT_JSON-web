@@ -1,0 +1,24 @@
+{
+  "tests":[
+	{
+		"test_id":"login",
+		"test_input":{
+			"email":"pranita.jadhav@gadreinfotech.com",
+			"password":"Abc12345"
+		}
+	},
+	{
+		"test_id":"login",
+		"test_input":{
+			"email":"pranita.jadhav@gadreinfotech.com",
+			"password":"Abc123451"
+		}
+	},
+	{
+		"test_id":"login",
+		"test_input":{
+			"email":"pranita.jadhav",
+			"password":"Abc12345"
+		}
+	}
+]}
